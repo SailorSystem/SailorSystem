@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="CatSailor.png" alt="Banner Omar Lozada" width="100%" />
+  <img src="CatSailor.png" alt="Banner Omar Lozada" width="50%" />
 </p>
 
 ## 🛠️ Tecnologías y herramientas favoritas
