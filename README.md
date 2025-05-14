@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <img src="CatSailor.png" alt="Banner Omar Lozada" width="100%" />
+</p>
+
 ## 🛠️ Tecnologías y herramientas favoritas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
