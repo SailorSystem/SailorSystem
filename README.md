@@ -36,12 +36,6 @@ Aplicación java y base de datos para generar una liquidación a un empleado.
 
 ---
 
-## 🐍 Mi actividad de GitHub en forma de Snake
-
-![snake gif](https://github.com/SailorSystem/SailorSystem/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contacto
 
 - ✉️ **Correo:** omi7_lozada@hotmail.es  
