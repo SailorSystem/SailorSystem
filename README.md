@@ -1,13 +1,13 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGoxbWVlenRvMHhpb29mam00bXBpc3dkZ3hpaHBpZnpoOHU2ODhxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2NGSeQQe5Omx8g5lqi/giphy.gif" width="300"/>
+
+---
+
 # 👋 ¡Hola! Soy Omar Lozada
 
 🎓 Estudiante de Ingeniería en Sistemas de la Información – 6.º semestre  
 💻 Apasionado por el desarrollo de software, los datos y la creación de soluciones digitales útiles. Me enfoco en aprender continuamente, escribir código limpio y participar en proyectos colaborativos.
 
 ---
-
-<p align="center">
-  <img src="CatSailor.png" alt="Banner Omar Lozada" width="50%" />
-</p>
 
 ## 🛠️ Tecnologías y herramientas favoritas
 
