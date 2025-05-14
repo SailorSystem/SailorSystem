@@ -23,24 +23,10 @@
 
 ## 🚀 Proyectos destacados
 
-### 🔹 Sistema de Gestión para Hostería
-Aplicación web completa con Django y PostgreSQL para gestionar reservas, habitaciones y clientes.  
-📎 [Ver proyecto](https://github.com/SailorSystem/proyecto-hosteria)
+### 🔹Botoncito Liquidar
+Aplicación java y base de datos para generar una liquidación a un empleado.  
+📎 [Ver proyecto](https://github.com/SailorSystem/botoncito_liquidar)
 
-### 🔹 App de Predicción de Diabetes
-App web con Flask y Machine Learning para detectar posibles casos de diabetes.  
-📎 [Ver proyecto](https://github.com/SailorSystem/prediccion-diabetes)
-
-### 🔹 Landing Page con React
-Diseño responsivo y moderno de una landing page con React + Tailwind.  
-📎 [Ver proyecto](https://github.com/SailorSystem/landing-react)
-
----
-
-## 📊 Estadísticas de GitHub
-
-![SailorSystem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SailorSystem&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorSystem&layout=compact&theme=radical)
 
 ---
 
@@ -52,8 +38,7 @@ Diseño responsivo y moderno de una landing page con React + Tailwind.
 
 ## 📫 Contacto
 
-- ✉️ **Correo:** omarlozada@ejemplo.com  
-- 💼 **LinkedIn:** [linkedin.com/in/omarlozada](https://linkedin.com/in/omarlozada) *(ajústalo si tienes uno)*
+- ✉️ **Correo:** omi7_lozada@hotmail.es  
 - 🐙 **GitHub:** [github.com/SailorSystem](https://github.com/SailorSystem)
 
 ---
