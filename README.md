@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Omar Lozada
 
-<!--
-**SailorSystem/SailorSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas de la Información – 6.º semestre  
+💻 Apasionado por el desarrollo de software, la resolución de problemas y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías y herramientas que uso
+
+- **Lenguajes:** Java | Python | C#  
+- **Frameworks y librerías:** React | Django  
+- **Bases de datos:** PostgreSQL | MySQL | SQLite  
+- **Herramientas:** Git | GitHub | Visual Studio Code | Postman
+
+---
+
+## 📈 Actualmente aprendiendo...
+- Integración de APIs RESTful
+- Buenas prácticas con Clean Code
+- Principios SOLID
+- Desarrollo ágil con Scrum
+
+---
+
+## 📫 Contacto
+
+- **Correo:** omi7_lozada@hotmail.es  
+- **LinkedIn:** [linkedin.com/in/omarlozada](https://linkedin.com/in/omarlozada) *(cambia esto si tienes perfil)*  
+- **GitHub:** [github.com/tuusuario](https://github.com/SailorSystem)
+
+---
+
+> “Los códigos son un rompecabezas. Un juego, como cualquier otro juego”. – Alan Turing
