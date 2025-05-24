@@ -39,4 +39,8 @@ Aplicación java y base de datos para generar una liquidación a un empleado.
 
 ---
 
+![snake gif](https://github.com/SailorSystem/SailorSystem/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 > “Los códigos son un rompecabezas. Un juego, como cualquier otro juego”. – Alan Turing
