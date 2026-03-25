@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Omar Lozada
 
-🎓 Estudiante de Ingeniería en Sistemas de la Información – 6.º semestre  
+🎓 Estudiante de Ingeniería en Sistemas de la Información – 8.º semestre  
 💻 Apasionado por el desarrollo de software, los datos y la creación de soluciones digitales útiles. Me enfoco en aprender continuamente, escribir código limpio y participar en proyectos colaborativos.
 
 ---
