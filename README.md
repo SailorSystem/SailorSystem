@@ -57,8 +57,6 @@
 Plataforma web de realidad aumentada sin instalación: reconocimiento en tiempo real del alfabeto LSEC (A–Z, Ñ) y 199 gestos, visor 3D/AR con Three.js + WebXR, traducción voz-a-señas y minijuegos controlados por gestos, voz y movimiento corporal.
 📎 [Ver proyecto](https://github.com/SailorSystem)
 
-### 🔹 TFR Academy (The Flow Rises)
-Sitio web para academia de baile construido con Next.js 15, animaciones avanzadas (GSAP, Framer Motion, Three.js/React Three Fiber) y una estética oscura con acentos rojos.
 
 ### 🔹 Análisis Predictivo del Sector Petrolero (Titulación)
 Pipeline CRISP-DM para pronóstico del precio del petróleo WTI aplicado al sector exportador ecuatoriano: comparación de modelos ARIMA, XGBoost, LSTM e híbrido, API con FastAPI y dashboard en Power BI.
